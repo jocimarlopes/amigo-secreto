@@ -1,7 +1,7 @@
 # Sorteio Amigo Secreto com Arduino
 <h3>Secret Friend Lottery with Arduino - in Portuguese</h3>
 
-<h2>Criei em Arduino um sistema de Sorteio para Amigo Secreto</h2>
+<h2>Criei com C++ e Arduino, um sistema de Sorteio para Amigo Secreto</h2>
 
 <h3>Materiais Necessários:</h3>
 * 01 Arduino UNO R3<br>
