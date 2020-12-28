@@ -56,7 +56,6 @@ void sorteio () { //função que sorteia o amigo secreto
       }
       if (pessoas[numEscolhido] != "  JA ESCOLHIDO  " && digitalRead(pinoBotao) == HIGH) {
         pessoas[numEscolhido] = "  JA ESCOLHIDO  ";
-        remove(pessoas[numEscolhido]);
         pressButton();
         while (digitalRead(pinoBotao) == HIGH) {
           lcd.setCursor(0,1); //seta a posição do cursor (início do texto)
