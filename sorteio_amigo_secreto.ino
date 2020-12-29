@@ -28,9 +28,6 @@ void loop(){
 
 void sorteio () { //função que sorteia o amigo secreto
   
-  if (guarda_estado == LOW) {
-         
-  }
   if (guarda_estado == LOW) { //começa a selecionar o sorteado do amigo secreto
 
       delay(900); //esperera o tempo de 500ms para evitar que haja várias vezes alterações
